@@ -1,0 +1,255 @@
+{
+  "currency": "PHP",
+  "symbol": "₱",
+  "featured": "spicy-premium-bulgogi",
+  "featuredText": "Our premium beef bulgogi egg drop sandwich with a spicy kick.",
+  "categories": [
+    {
+      "id": "sandwich",
+      "label": "Egg Drop Sandwiches"
+    },
+    {
+      "id": "meal",
+      "label": "Meals"
+    },
+    {
+      "id": "drink",
+      "label": "Drinks"
+    }
+  ],
+  "drinkAddOns": {
+    "price": 20,
+    "items": [
+      "Whipped Cream",
+      "Crushed Oreo",
+      "Crushed Graham",
+      "Coffee Shot",
+      "Nutella"
+    ]
+  },
+  "items": [
+    {
+      "id": "spicy-premium-bulgogi",
+      "name": "Spicy Premium Bulgogi",
+      "category": "sandwich",
+      "price": 178,
+      "image": "assets/images/food/spicy-premium-bulgogi.jpg",
+      "tag": "Spicy"
+    },
+    {
+      "id": "premium-beef-bulgogi",
+      "name": "Premium Beef Bulgogi",
+      "category": "sandwich",
+      "price": 178,
+      "image": "assets/images/food/premium-beef-bulgogi.jpg"
+    },
+    {
+      "id": "crispy-chicken-katsu",
+      "name": "Crispy Chicken Katsu",
+      "category": "sandwich",
+      "price": 168,
+      "image": "assets/images/food/crispy-chicken-katsu.jpg"
+    },
+    {
+      "id": "bacon",
+      "name": "Bacon",
+      "category": "sandwich",
+      "price": 158,
+      "image": "assets/images/food/bacon.jpg"
+    },
+    {
+      "id": "spam",
+      "name": "Spam",
+      "category": "sandwich",
+      "price": 148,
+      "image": "assets/images/food/spam.jpg"
+    },
+    {
+      "id": "ham",
+      "name": "Ham",
+      "category": "sandwich",
+      "price": 148,
+      "image": "assets/images/food/ham.jpg"
+    },
+    {
+      "id": "classic-toast",
+      "name": "Classic Toast",
+      "category": "sandwich",
+      "price": 118,
+      "image": "assets/images/food/classic-toast.jpg"
+    },
+    {
+      "id": "corndog",
+      "name": "Corndog",
+      "category": "meal",
+      "price": 108,
+      "image": "assets/images/food/corndog.jpg",
+      "priceLabel": "from"
+    },
+    {
+      "id": "beef-bulgogi-rice-bowl",
+      "name": "Beef Bulgogi Rice Bowl",
+      "category": "meal",
+      "price": 178,
+      "image": "assets/images/food/beef-bulgogi-rice-bowl.jpg"
+    },
+    {
+      "id": "crispy-chicken-poppers",
+      "name": "Crispy Chicken Poppers",
+      "category": "meal",
+      "price": 148,
+      "image": "assets/images/food/crispy-chicken-poppers.jpg"
+    },
+    {
+      "id": "unli-rice-gravy",
+      "name": "Unli rice + unli signature gravy",
+      "category": "meal",
+      "price": 25,
+      "style": "addon",
+      "note": "Best value add-on for your meal."
+    },
+    {
+      "id": "wintermelon-milk-tea",
+      "name": "Wintermelon Milk Tea",
+      "category": "drink",
+      "group": "Milk Tea",
+      "sizes": {
+        "12": 68,
+        "16": 88
+      },
+      "image": "assets/images/drinks/wintermelon-milk-tea.jpg"
+    },
+    {
+      "id": "ube-milk-tea",
+      "name": "Ube Milk Tea",
+      "category": "drink",
+      "group": "Milk Tea",
+      "sizes": {
+        "12": 88,
+        "16": 108
+      },
+      "image": "assets/images/drinks/ube-milk-tea.jpg"
+    },
+    {
+      "id": "matcha-milk-tea",
+      "name": "Matcha Milk Tea",
+      "category": "drink",
+      "group": "Milk Tea",
+      "sizes": {
+        "12": 88,
+        "16": 108
+      },
+      "image": "assets/images/drinks/matcha-milk-tea.jpg"
+    },
+    {
+      "id": "cookies-and-cream-milk-tea",
+      "name": "Cookies & Cream Milk Tea",
+      "category": "drink",
+      "group": "Milk Tea",
+      "sizes": {
+        "12": 88,
+        "16": 108
+      },
+      "image": "assets/images/drinks/cookies-and-cream-milk-tea.jpg"
+    },
+    {
+      "id": "mocha-milk-tea",
+      "name": "Mocha Milk Tea",
+      "category": "drink",
+      "group": "Milk Tea",
+      "sizes": {
+        "12": 88,
+        "16": 108
+      },
+      "image": "assets/images/drinks/mocha-milk-tea.jpg"
+    },
+    {
+      "id": "strawberry-cold-coffee",
+      "name": "Strawberry Cold Coffee",
+      "category": "drink",
+      "group": "Cold Coffee",
+      "sizes": {
+        "12": 78,
+        "16": 88
+      },
+      "image": "assets/images/drinks/strawberry-cold-coffee.jpg"
+    },
+    {
+      "id": "caramel-cold-coffee",
+      "name": "Caramel Cold Coffee",
+      "category": "drink",
+      "group": "Cold Coffee",
+      "sizes": {
+        "12": 78,
+        "16": 88
+      },
+      "image": "assets/images/drinks/caramel-cold-coffee.jpg"
+    },
+    {
+      "id": "hazelnut-cold-coffee",
+      "name": "Hazelnut Cold Coffee",
+      "category": "drink",
+      "group": "Cold Coffee",
+      "sizes": {
+        "12": 88,
+        "16": 108
+      },
+      "image": "assets/images/drinks/hazelnut-cold-coffee.jpg"
+    },
+    {
+      "id": "tiramisu-cold-coffee",
+      "name": "Tiramisu Cold Coffee",
+      "category": "drink",
+      "group": "Cold Coffee",
+      "sizes": {
+        "12": 88,
+        "16": 108
+      },
+      "image": "assets/images/drinks/tiramisu-cold-coffee.jpg"
+    },
+    {
+      "id": "strawberry-fruit-soda",
+      "name": "Strawberry Fruit Soda",
+      "category": "drink",
+      "group": "Fruit Soda",
+      "sizes": {
+        "12": 68,
+        "16": 88
+      },
+      "image": "assets/images/drinks/strawberry-fruit-soda.jpg"
+    },
+    {
+      "id": "mango-fruit-soda",
+      "name": "Mango Fruit Soda",
+      "category": "drink",
+      "group": "Fruit Soda",
+      "sizes": {
+        "12": 68,
+        "16": 88
+      },
+      "image": "assets/images/drinks/mango-fruit-soda.jpg"
+    },
+    {
+      "id": "watermelon-fruit-soda",
+      "name": "Watermelon Fruit Soda",
+      "category": "drink",
+      "group": "Fruit Soda",
+      "sizes": {
+        "12": 68,
+        "16": 88
+      },
+      "image": "assets/images/drinks/watermelon-fruit-soda.jpg"
+    },
+    {
+      "id": "lemonade-fruit-soda",
+      "name": "Lemonade Fruit Soda",
+      "category": "drink",
+      "group": "Fruit Soda",
+      "sizes": {
+        "12": 68,
+        "16": 88
+      },
+      "image": "assets/images/drinks/lemonade-fruit-soda.jpg"
+    }
+  ]
+}
